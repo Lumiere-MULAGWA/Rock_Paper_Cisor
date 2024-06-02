@@ -32,6 +32,8 @@ PcLabel.grid(row=2,column=4)
 result=Label(fen,text="il vous reste ",bg="white")
 result.grid(row=3,column=2)
 
+#il faut toujour lancer le main loop
+
 fen.mainloop()
 
 
