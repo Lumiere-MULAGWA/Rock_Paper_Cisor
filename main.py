@@ -1,5 +1,6 @@
 from tkinter import *
 import random
+import customtkinter as ctk
 """
 jeu de pierre feuille ciseau
 fait avec tkinter
